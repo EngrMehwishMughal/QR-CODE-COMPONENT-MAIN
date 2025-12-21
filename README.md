@@ -26,7 +26,7 @@ After completing this challenge, I felt a small but meaningful sense of accompli
 
 ### Links
 
-- Solution URL: (https://github.com/EngrMehwishMughal/QR-CODE-COMPONENT-MAIN.git)
+- Solution URL: (https://github.com/EngrMehwishMughal/QR-CODE-COMPONENT-MAIN)
 
 - Live site URL: (https://engrmehwishmughal.github.io/QR-CODE-COMPONENT-MAIN/)
 
@@ -63,6 +63,7 @@ Additionally, I learned how to:
     </p>
   </div>
 </main>
+
 ```css
 .container {
   min-height: 100vh;
