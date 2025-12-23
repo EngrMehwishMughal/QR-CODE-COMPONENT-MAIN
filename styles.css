@@ -41,7 +41,7 @@ body{
   }
  .card p{
     font-size: 15px;
-    color: hsl(220, 15%, 55%);
+    color: hsl(220, 15%, 40%);
     line-height: 1.4;
     padding: 0 10px 16px;
 }
